@@ -1,7 +1,7 @@
 # CWRU-dataset
 Case Western Reserve University Bearing Fault Dataset
 
-https://csegroups.case.edu/bearingdatacenter/pages/download-data-file
+https://engineering.case.edu/bearingdatacenter/download-data-file
 
 Data presented here were collected for - 
   1. normal bearings, 
